@@ -1,0 +1,19 @@
+.field{
+ width :100%;
+ 
+}
+.card{
+width: 50%;
+margin: auto;
+background-color: rgb(247, 242, 235);
+}
+
+.card h1{
+    text-align: center ;
+}
+.card button{
+    margin: 2%;
+}
+.text-center{
+    text-align: center;
+}
